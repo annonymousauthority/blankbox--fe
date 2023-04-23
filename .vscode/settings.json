@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.fontSize": 21,
+    "editor.wordWrap": "wordWrapColumn"
+}
